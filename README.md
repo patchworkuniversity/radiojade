@@ -1,2 +1,6 @@
-# radiojade
-A polycentric, semantic, social web tool.  #getjaded
+<img src="jade.png" align="right" alt="Jade" height="191" />
+
+# Radiojade
+>A polycentric, semantic, social web tool.
+
+#getjaded
