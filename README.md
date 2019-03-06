@@ -7,7 +7,7 @@
 - open source; free for life
 - you own the platform and host your own environment
 - low overhead (you can use a simple hardware infrastructure with a small footprint)
-- builds on [Speakeasy]'s [Lighttouch application framework], a progressive, [no-code development platform](https://en.wikipedia.org/wiki/No-code_development_platform) ([rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development) environment)
+- builds on [Speakeasy](https://github.com/foundpatterns/speakeasy)'s [Lighttouch application framework](https://github.com/foundpatterns/lighttouch), a progressive, [no-code development platform](https://en.wikipedia.org/wiki/No-code_development_platform) ([rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development) environment) with powerful encryption tools
 - [secure by default](https://www.privateinternetaccess.com/blog/2017/08/libsodium-v1-0-12-and-v1-0-13-security-assessment/#section_1)
 - [Safe Systems Programming with Rust | Mozilla ♥ Rust](https://www.youtube.com/watch?v=P3sfNGtpuxc)
 
