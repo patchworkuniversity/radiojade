@@ -4,7 +4,6 @@
 
 ## Features
 
-- open source; free for life
 - you own the platform and host your own environment
 - low overhead (you can use a simple hardware infrastructure with a small footprint)
 - builds on [Speakeasy](https://github.com/foundpatterns/speakeasy)'s [Lighttouch application framework](https://github.com/foundpatterns/lighttouch), a progressive, [no-code development platform](https://en.wikipedia.org/wiki/No-code_development_platform) ([rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development) environment) with powerful encryption tools
